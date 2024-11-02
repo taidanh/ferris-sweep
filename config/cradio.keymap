@@ -62,7 +62,7 @@
         //│  Z       │  X       │  C       │  V       │  B       │   │  N       │  M       │ , <      │ . >      │ / ?      │
             &kp Z      &kp X      &kp C      &kp V      &kp B          &kp N      &kp M      &kp COMMA  &kp DOT    &kp FSLH
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
-                                           &lt 2 SPACE  &kp LCTRL     &kp BSPC   &lt 1 ESC
+                                            &kp LCTRL &lt 2 SPACE     &kp BSPC   &lt 1 ESC
         //                                  &lt 2 TAB   &kp ENTER     &kp SPACE  &lt 1 BSPC
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
             >;
@@ -80,7 +80,7 @@
         //│ CAPS     │  7       │  8       │  9       │  0       │   │          │          │          │          │          │
            &caps_word  &kp N7     &kp N8     &kp N9     &kp N0         &trans     &trans     &trans     &trans     &trans
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
-                                             &kp TAB     &kp ESC        &trans     &trans
+                                            &kp ESC    &kp TAB        &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
             >;
         };
